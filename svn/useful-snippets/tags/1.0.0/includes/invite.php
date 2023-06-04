@@ -10,4 +10,3 @@ if ( ! defined( 'ABSPATH' ) ) {
 include 'tools/security-headers.php';
 include 'tools/disable-xmlrpc.php';
 include 'tools/svg-remove.php';
-include 'tools/remove-inner-block.php';

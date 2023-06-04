@@ -4,7 +4,7 @@
  * Description:       Switch on and off code snippets on your site.
  * Requires at least: 5.9
  * Requires PHP:      7.0
- * Version:           1.1.1
+ * Version:           1.0.0
  * Author:            Janos Moga
  * Author URI:        https://github.com/janibras/
  * License:           GPL-2.0-or-later
